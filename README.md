@@ -22,7 +22,7 @@
   - Assignment Information: [Lab1](https://hackmd.io/A4w9WqU8R4mYgvaWxj6J1A?view)
   - Deadline : 12:00, Sep. 28
   - Goal: In this lab, you will use Wireshark to analyze how a UE establishes an RRC connection with an OAI gNB and then registers with the 5G Core.
-  - delivery: put your file link here.
+  - delivery: [蔡登丞 Assingment Lab1](https://hackmd.io/@UvS3Y6aaS5C94ZMYDW5vbQ/HJ7TXjlcGe)
   - Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSeY8uVnBUwJ6l6CwQ6arx3JHthTJupHBeA2WwyD-EUIYqHHrg/viewform) (DL: 23:59, Sep. 30)
 - LAB2 : gNB TDD Traffic Analysis
 
